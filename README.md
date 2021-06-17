@@ -1,4 +1,4 @@
-# text-based-adventure-game-by-Vishv
+# Among-Us-by-Vishv
 
 The game starts with randumly selecting players as killer, sheriff or innocent, thre is only one killer and one sheriff. Then you can theam-up with other player or 🔪 betray them and, hopehully win the game.
 One morething is that only two people get gun one is killer and sheriff; and other will only able to by traps and shilds.
